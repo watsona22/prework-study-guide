@@ -14,7 +14,7 @@ N/A
 
 Students can use this guide to reference a few critical key points about those major topics inside the Prework training modules: HTML, CSS, Git, and Javascript.
 
-Likewise, if participants choose to view the DevTools console, students can view those topics alongside a randomized list of suggested topics to consider first. This has the added benefit of showing active Javascript code.
+Likewise, if participants choose to view the DevTools console, students can view those topics alongside a randomized list of suggested topics to consider first. This has the added benefit of showing the active Javascript code.
 
 ## Credits
 
